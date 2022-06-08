@@ -1,0 +1,18 @@
+{
+  "name": "square-connect-app",
+  "version": "1.0.0",
+  "description": "A simple app to show how square connec sdk works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fastify/cors": "^7.0.0",
+    "dotenv": "^16.0.1",
+    "fastify": "^3.29.0",
+    "square": "^19.0.0",
+    "uuid4": "^2.0.2"
+  }
+}
